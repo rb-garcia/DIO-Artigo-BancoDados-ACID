@@ -23,6 +23,6 @@ Desempenho e ACID: Encontrando o Equilíbrio Ideal em Bancos de Dados de Alto De
 - Coloque 3 hashtags que façam sentido
 
 No final conclusão
-Conteudo gerado por: chatgpt e revisões humanas
+Conteudo gerado por: chatgpt e revisões humanas<br />
 Ilustrações da capa: gerada pela lexica.art
 
