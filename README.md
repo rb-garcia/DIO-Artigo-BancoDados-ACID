@@ -1,7 +1,6 @@
-# DIO-Artigo-BancoDados-ACID
- Criando Artigos Técnicos com ChatGPT e Lexica.art
+Criando Artigos Técnicos com ChatGPT e Lexica.art
 
-# PROMPT
+# Prompt
 Comporte-se como um escritor de artigos tech especialista em banco de dados e escreva um artigo atendendo as regras abaixo:
 
 ## Assunto
