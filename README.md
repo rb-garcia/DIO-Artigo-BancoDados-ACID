@@ -23,12 +23,7 @@ Desempenho e ACID: Encontrando o Equilíbrio Ideal em Bancos de Dados de Alto De
 
 No final conclusão<br />
 Conteudo gerado por: chatgpt e revisões humanas<br />
-Ilustrações da capa: gerada pela lexica.art
-
-
-
-
-
+Ilustrações da capa: gerada pela lexica.art<br /><br /><br /><br /><br />
 
 ![image](https://github.com/rb-garcia/DIO-Artigo-BancoDados-ACID/assets/90473342/bc1666a7-005d-4106-be8e-d88cfc633b81)
 
