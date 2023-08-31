@@ -27,6 +27,9 @@ Ilustrações da capa: gerada pela lexica.art
 
 
 
+
+
+
 ![image](https://github.com/rb-garcia/DIO-Artigo-BancoDados-ACID/assets/90473342/bc1666a7-005d-4106-be8e-d88cfc633b81)
 
 
