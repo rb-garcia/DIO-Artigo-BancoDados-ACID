@@ -13,7 +13,7 @@ Desempenho e ACID: Encontrando o Equilíbrio Ideal em Bancos de Dados de Alto De
 > no maximo 5 linhas por blocos de explicação<br />
 > me explique de maneira informal como se fosse uma criança de 10 anos<br />
 > exemplos de bases de dados que são ACID e bases de dados que não são ACID<br />
-> crie subtitulos e separa por blocos cada parte do artigo<br />
+> crie subtitulos e separar por blocos cada parte do artigo<br />
 > os blocos que serão criados podem conter o que esta abaixo:
 - O que é
 - Apresente os conceitos
