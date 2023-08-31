@@ -39,14 +39,37 @@ Você já ouviu falar sobre bancos de dados? E sobre ACID? Bem, imagine que um b
 ## O que é ACID?
 ACID é uma sigla que significa Atomicidade, Consistência, Isolamento e Durabilidade. Parece complicado, mas vou explicar de forma fácil.
 
-Atomicidade: Imagine que você está fazendo um bolo. Se você quebrar um ovo e deixar cair no chão, a atomicidade garante que todo o processo seja desfeito, como se nada tivesse acontecido. Ou seja, ou o bolo fica perfeito, ou nada acontece.
+- Atomicidade: Imagine que você está fazendo um bolo. Se você quebrar um ovo e deixar cair no chão, a atomicidade garante que todo o processo seja desfeito, como se nada tivesse acontecido. Ou seja, ou o bolo fica perfeito, ou nada acontece.
 
-Consistência: Isso significa que o seu banco de dados está sempre em um estado válido. Se você tem uma lista de amigos, ela nunca terá pessoas duplicadas ou faltando. É como manter seus brinquedos organizados.
+- Consistência: Isso significa que o seu banco de dados está sempre em um estado válido. Se você tem uma lista de amigos, ela nunca terá pessoas duplicadas ou faltando. É como manter seus brinquedos organizados.
 
-Isolamento: Imagine que você e seu irmão estão brincando com os mesmos brinquedos, mas vocês não podem interferir um no brinquedo do outro. Isso é isolamento. Cada um faz sua coisa sem atrapalhar o outro.
+- Isolamento: Imagine que você e seu irmão estão brincando com os mesmos brinquedos, mas vocês não podem interferir um no brinquedo do outro. Isso é isolamento. Cada um faz sua coisa sem atrapalhar o outro.
 
-Durabilidade: É como quando você escreve uma história em um papel e quer ter certeza de que ela nunca vai desaparecer, mesmo se chover. A durabilidade garante que os dados são salvos mesmo se algo der errado.
+- Durabilidade: É como quando você escreve uma história em um papel e quer ter certeza de que ela nunca vai desaparecer, mesmo se chover. A durabilidade garante que os dados são salvos mesmo se algo der errado.
 
+## Exemplos de Bancos de Dados ACID e Não ACID
+PostgreSQL<br />
+O PostgreSQL é como um guarda-roupa super seguro. Ele cuida muito bem dos seus dados, garantindo que eles estejam sempre organizados e protegidos. Aqui está um exemplo de código que mostra uma transação ACID no PostgreSQL:
 
+![image](https://github.com/rb-garcia/DIO-Artigo-BancoDados-ACID/assets/90473342/121e1eca-8b6d-4453-b12c-6830d392d757)
 
+## Bancos de Dados Não ACID
+MongoDB<br />
+O MongoDB é mais como uma caixa de brinquedos onde você pode bagunçar as coisas. Ele é rápido, mas não tão rígido em relação às regras. Isso significa que às vezes as coisas podem ficar um pouco desorganizadas.
 
+![image](https://github.com/rb-garcia/DIO-Artigo-BancoDados-ACID/assets/90473342/933dc832-76ad-49a2-9914-02eee6fbb5f8)
+
+## Encontrando o Equilíbrio
+Agora que entendemos ACID e vimos exemplos de bancos de dados que o usam e não usam, a pergunta é: como encontrar o equilíbrio ideal?
+
+A resposta depende do que você precisa. Se você está construindo uma aplicação financeira, a segurança dos dados é crucial, então um banco de dados ACID pode ser a melhor escolha. Mas se você está criando um jogo online onde a velocidade é importante, um banco de dados menos rígido pode ser a opção certa.
+
+## Conclusão
+Encontrar o equilíbrio entre desempenho e ACID em bancos de dados é como equilibrar brinquedos empilhados. Você precisa decidir o que é mais importante para sua aplicação: a segurança absoluta dos dados ou a velocidade de acesso. Não existe uma resposta única para todos, mas entender os conceitos de ACID ajuda a tomar a melhor decisão. Mantenha seus dados seguros e continue explorando o mundo dos bancos de dados!
+
+Gostou deste artigo? Siga-me nas redes sociais para mais dicas sobre tecnologia! 
+
+#BancosDeDados #ACID #Desempenho
+
+Conteudo gerado por: chatgpt e revisões humanas<br />
+Ilustrações da capa: Lexica.Art
